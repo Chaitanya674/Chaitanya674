@@ -5,7 +5,7 @@
 
 - 🌱 I’m always learning somthing
 
-- 👨‍💻 All of my projects are available at [chaitanya506.netlify.app](chaitanya506.netlify.app)
+- 👨‍💻 All of my projects are available at [chaitanya506.netlify.app](https://chaitanya506.netlify.app)
 
 - 📫 How to reach me **chaitanyasharma674@gmail.com**
 
